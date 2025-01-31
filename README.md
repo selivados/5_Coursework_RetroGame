@@ -1,6 +1,6 @@
-![CI](https://github.com/freelandos/5_Coursework_RetroGame/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/selivados/5_Coursework_RetroGame/actions/workflows/web.yml/badge.svg)
 
-### Let's start [Retro Game](https://freelandos.github.io/5_Coursework_RetroGame/)
+### Let's start [Retro Game](https://selivados.github.io/5_Coursework_RetroGame/)
 
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
